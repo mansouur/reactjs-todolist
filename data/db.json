@@ -1,0 +1,29 @@
+{
+  "mylist": [
+    {
+      "id": 1,
+      "task": "HTML5 CSS3",
+      "status": "urgent"
+    },
+    {
+      "id": 2,
+      "task": "JavaScript",
+      "status": "urgent"
+    },
+    {
+      "id": 3,
+      "task": "ReactJS",
+      "status": "urgent"
+    },
+    {
+      "id": 4,
+      "task": "Material UI",
+      "status": "normal"
+    },
+    {
+      "id": 5,
+      "task": "NextJs 12",
+      "status": "unimportant"
+    }
+  ]
+}
